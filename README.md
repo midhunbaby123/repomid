@@ -1,2 +1,0 @@
-# repomid
-intro to git
